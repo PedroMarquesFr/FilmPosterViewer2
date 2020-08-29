@@ -1,10 +1,10 @@
 import React from 'react';
-import Search from './Search';
+import FrontPage from './FrontPage';
 import './style.css';
 
 function App() {
   return (
-    <Search/>
+    <FrontPage/>
   );
 }
 

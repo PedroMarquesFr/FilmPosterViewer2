@@ -22,4 +22,4 @@ class Search extends React.Component {
 
 export default Search;
 
-//{Title: "Iron Man", Year: "2008", imdbID: "tt0371746", Type: "movie", Poster: "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"}
+// {Title: "Iron Man", Year: "2008", imdbID: "tt0371746", Type: "movie", Poster: "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"}
